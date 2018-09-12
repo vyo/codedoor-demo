@@ -1,0 +1,9 @@
+{
+  "generator-gitignore-io": {
+    "options": [
+      "macos",
+      "node",
+      "vim"
+    ]
+  }
+}
