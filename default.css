@@ -1,0 +1,84 @@
+a {
+  color: #606c76;
+  cursor: default;
+}
+footer {
+  margin-top: 10em;
+}
+header {
+  margin-top: 2.5em;
+  margin-bottom: 5em;
+}
+pre {
+  margin: 1em;
+  padding-left: 1em;
+}
+textarea {
+  color: #76796c;
+  border: none;
+  overflow: auto;
+  outline: none;
+
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  display: block;
+  font-family: monospace;
+  font-weight: bold;
+  /* white-space: pre; */
+  resize: none;
+}
+.grey-background {
+  background-color: rgba(0,0,0,0.05);
+}
+.paragraph {
+  margin-bottom: 2.5em;
+}
+.justify-center {
+  text-align: center;
+}
+.inlaid {
+  padding: 5px;
+  border-radius: 5px;
+  border-width: 2px;
+  box-shadow: inset 0px 0px 2px 1.5px rgba(0,0,0,0.25);
+  background: rgba(0,0,0,0.005);
+}
+.spacing {
+  margin-top: 2.5em;
+  margin-bottom: 2.5em;
+}
+.underlined {
+  text-decoration: underline #9b4dca;
+}
+.overlined {
+  text-decoration: overline #9b4dca;
+}
+.flat-button {
+  padding: 10px;
+  border-width: 5px;
+  box-shadow: 3px 3px 5px 2.5px rgba(0,0,0,0.25);
+  background: rgba(0,0,0,0.025);
+}
+.success:hover {
+  box-shadow: 3px 3px 5px 2.5px rgba(155,77,202,0.75);
+}
+.pink {
+  color: rgba(155,77,202,0.75);
+}
+.teal {
+  color: rgba(0,150,225,0.75);
+}
+.royal-blue {
+  color: #4169e1;
+}
+.failure:hover {
+  box-shadow: 3px 3px 5px 2.5px rgba(0,0,0,0.5);
+}
+.profile {
+  border-radius: 10%;
+  max-width: 80%;
+  max-height: 80%;
+  display: block;
+  margin: 0 auto;
+}
